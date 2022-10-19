@@ -1,27 +1,35 @@
 body
 {
-	color: violet;
+	background: #1e1f24;
+	color: #333;
 	text-align: center;
+	font-size: 16px;
 	font-family: "Arial";
 	margin: 0;
-	padding: 5em;
+	padding: 0;
 }
 
 #cabezera
 {
-	background: pink;
+	background: #37488b;
 	box-shadow: 0px 2px 20px 0px rgb(0, 0, 0, 0.5);
-	color: white;
-	font-weight: bold;
+	color: #fff;
+	font-weight: 700;
 	margin: 0;
 	padding: 0.5em;
 }
 
 #cabezera #tagline
 {
-	padding: 1em 0 0 0 ;
-	font-weight: normal;
-	font-size: 0.8em;
+	padding: 0 0 0 1em;
+	font-weight: 400;
+	font-size: .8em;
+}
+
+#cabezera #logo
+{
+	width: 30px;
+	vertical-align: middle;
 }
 
 #container
@@ -36,4 +44,10 @@ body
 #container h1
 {
 	font-size: 20px;
+}
+
+#post
+{
+	background: #fff;
+	padding: 1em;
 }
