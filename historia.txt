@@ -3,7 +3,7 @@ Esta es la historia de Alfio Valesini
 Alfio tiene 33 años y nacio en Formosa,
 estudio Ing en córdoba
 
-Es alto y le gusta el basket
+Es alto y le gusta el basket (Otro cambio en stage)
 
 Alfio-valesini was here, please visit my profile 
 
@@ -11,3 +11,4 @@ Hoy hablaremos de su historia
 
 
 Aquí esta el ultimo cambio en main
+Guardaré esta linea en Stage de cabecera branch
